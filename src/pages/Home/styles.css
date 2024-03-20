@@ -1,0 +1,22 @@
+.start-button {
+  color: #fff;
+  background-color: #1890ff;
+  border: 0px;
+}
+
+.home-container {
+  padding: 40px;
+}
+
+.home-container h3 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  color: #7e7e7e;
+}
+
+.home-container h1 {
+  font-size: 48px;
+  color: black;
+  font-weight: 700;
+}
